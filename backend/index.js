@@ -12,7 +12,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: "http://localhost:5173",
+    origin: "https://my-assistant-3ndz.onrender.com",
     credentials: true,
   }),
 );
