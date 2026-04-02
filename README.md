@@ -2,7 +2,7 @@
 
 A full-stack AI-powered personal assistant web app where users can create and customize their own assistant, then interact with it using natural language commands.
 
-🔗 **Live Demo:** [my-assistant-3ndz.onrender.com](https://my-assistant-3ndz.onrender.com/signup)
+🔗 **Live Demo:** [my-assistant](https://my-assistant-3ndz.onrender.com/signup)
 
 ---
 
